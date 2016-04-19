@@ -19,7 +19,7 @@ import android.widget.ImageView;
 
 /**
  * 使用Handler造成内存泄露的分析和解决
- * 
+ * 可参考blog文章：http://blog.csdn.net/u012440207/article/details/51195064
  * @author zhongyao
  * 
  */
